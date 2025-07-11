@@ -61,3 +61,8 @@ El proyecto inicial está bajo licencia **MIT**, pero estamos evaluando un model
 ## 🌎 Pensado desde Centroamérica, para Centroamérica... y más allá.
 
 ---
+
+## ✍️ Autor
+
+**Daniel E. Méndez**  
+[GitHub](https://github.com/danymendez) · [LinkedIn](www.linkedin.com/in/daniel-mendez-sv) · 🇸🇻
