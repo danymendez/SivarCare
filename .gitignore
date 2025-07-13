@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/SivarCare/copilot-chat/cdd67a02/sessions
+/.vs/SivarCare/CopilotIndices/17.13.433.20974
+/.vs/SivarCare/FileContentIndex
+/.vs/ProjectSettings.json
+/.vs/SivarCare/v17
+/.vs/slnx.sqlite
+/.vs/VSWorkspaceState.json
